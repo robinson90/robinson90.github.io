@@ -4,7 +4,8 @@
   "description": "project show ",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "gulptest"
+    "test": "gulptest",
+    "dev":"gulp dev"
   },
   "dist-tags": {
     "latest": "1.0.5"

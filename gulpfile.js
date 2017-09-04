@@ -3,7 +3,8 @@ var $ = require('gulp-load-plugins')();
 $.vinylPaths = require("vinyl-paths"),
 	$.del = require('del'),
 	$.vinylPaths = require('vinyl-paths'),
-	$.browserSync = require('browser-sync');
+	browserSync = require('browser-sync'),
+	reload=browserSync.reload();
 
 //构建的基本信息
 var version = "1.0.1";
@@ -85,6 +86,23 @@ gulp.task("browserSync", function() {
 	});
 });
 
+//运行 dev开发环境
+gulp.task('dev',function(){
+	browserSync.init({
+		server: {
+			baseDir: './',
+
+		},
+		index:'./index.html',
+		reloadDelay: 1000,
+		files:'./src',
+		 port: 8091
+	});
+gulp.watch(['./index.html','./static/**/*'], reload);
+
+
+
+})
 gulp.task("imgmin", function() {
 	return gulp.src('src/images/*')
 		.pipe(imgmin())
