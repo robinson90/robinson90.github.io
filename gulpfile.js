@@ -98,10 +98,7 @@ gulp.task('dev',function(){
 		files:'./src',
 		 port: 8091
 	});
-gulp.watch(['./index.html','./static/**/*'], reload);
-
-
-
+gulp.watch(['/index.html','./static/**/*'], reload);
 })
 gulp.task("imgmin", function() {
 	return gulp.src('src/images/*')
