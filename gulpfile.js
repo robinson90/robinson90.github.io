@@ -10,7 +10,6 @@ var version = "1.0.1";
 //初始化项目结构
 var mkdirp = require('mkdirp');
 var fs = require('fs');
-
 var moduledir={
 	srcPages:'./src/pages/',
 	srcJS : './src/js/', //JS生产目录
