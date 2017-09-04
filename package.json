@@ -1,0 +1,51 @@
+{
+  "name": "myindex",
+  "version": "1.0.5",
+  "description": "project show ",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulptest"
+  },
+  "dist-tags": {
+    "latest": "1.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:csnikey/csnikey.github.io.git"
+  },
+  "keywords": [
+    "gulp",
+    "website index"
+  ],
+  "author": "ZhangBing",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-bower": "^0.0.13",
+    "gulp-bower-files": "^0.2.7",
+    "gulp-clean-css": "^2.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-file-copy": "0.0.1",
+    "gulp-htmlclean": "^2.7.8",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-less": "^3.3.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "less": "^2.7.1",
+    "main-bower-files": "^2.13.1",
+    "mkdirp": "^0.5.1",
+    "vinyl-paths": "^2.1.0"
+  },
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "dependencies": {
+    "browser-sync": "^2.18.2"
+  }
+}
