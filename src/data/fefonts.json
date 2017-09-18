@@ -1,0 +1,39 @@
+		
+{
+  "typename": "字体",
+				
+  "list": [{
+    "url": "http://font-combinator.com/",
+    "name": "The Web Font",
+    "desc": "提供在线预览的文字组合排版工具"
+  },{
+    "url": "http://www.google.com/webfonts",
+    "name": "谷歌网络字体",
+    "desc": "个性字体不必用图片，用字符就可以实现"
+  },{
+    "url": "http://www.ddfont.com/",
+    "name": "DdFont",
+    "desc": "直观的英文字体下载网站"
+  },{
+    "url": "http://www.showfont.net/",
+    "name": "ShowFont",
+    "desc": "英文字体下载网站，预览直观"
+  },{
+    "url": "http://www.qiuziti.com/",
+    "name": "求字体",
+    "desc": "上传字体图片帮您找到中文字体安装文件"
+  },{
+    "url": "http://www.myfonts.com/WhatTheFont/",
+    "name": "Myfonts",
+    "desc": "上传字体图片帮您找到英文字体安装文件"
+  },{
+    "url": "http://zh.fonts2u.com/",
+    "name": "Fonts2u",
+    "desc": "免费为Windows和Mac系统提供下载免费的字体"
+  },{
+    "url": "http://www.dafont.com/",
+    "name": "Dafont",
+    "desc": "优秀英文字体精选，各个经典有特色"
+  }
+  ]}
+

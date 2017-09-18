@@ -1,0 +1,62 @@
+		
+{
+  "typename": "图库",
+  "list": [{
+    "url": "http://gensun.org/",
+    "name": "GenSun",
+    "desc": "来自日本的原尺寸图片检索工具，丫竟然支持中文搜索"
+  },{
+    "url": "http://500px.com/",
+    "name": "500px",
+    "desc": "顶级摄影图片分享网站"
+  },{
+    "url": "http://wallbase.cc/home",
+    "name": "Wallbase",
+    "desc": "强大的检索功能图库，尺寸超大"
+  },{
+    "url": "http://www.corbisimages.com/",
+    "name": "Corbis",
+    "desc": "著名的创意资源供应机构"
+  },{
+    "url": "http://www.timtadder.com/",
+    "name": "TimTadder",
+    "desc": "国外创意广告设计图库"
+  },{
+    "url": "http://pixabay.com/",
+    "name": "pixabay",
+    "desc": "寻找美轮美奂的无版权限制的图片"
+  },{
+    "url": "http://www.studio25.ro/EN",
+    "name": "studio25",
+    "desc": "国外创意图片图库"
+  },{
+    "url": "http://www.cgtextures.com/",
+    "name": "Cgtextures",
+    "desc": "国外超全的免费背景图，各种材质纹理"
+  },{
+    "url": "http://www.flickr.com/",
+    "name": "flickr",
+    "desc": "flickr全球图片库"
+  },{
+    "url": "http://www.quanjing.com/",
+    "name": "全景视觉",
+    "desc": "国内人气较高版权图库"
+  },{
+    "url": "http://www.gettyimages.cn/",
+    "name": "华盖创意",
+    "desc": "提供来自全球的优质创意图片和影视素材"
+  },{
+    "url": "http://www.shutterstock.com/",
+    "name": "Shutterstock",
+    "desc": "知名的收费图片网站"
+  },{
+    "url": "http://www.123rf.net/",
+    "name": "123RF",
+    "desc": "微利正版创意图片素材服务"
+  },{
+    "url": "http://www.topicimages.com/",
+    "name": "TOPicimages",
+    "desc": "韩国图库网站"
+  }
+  ]}
+

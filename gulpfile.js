@@ -93,7 +93,7 @@ gulp.task('dev',function(){
 			baseDir: './',
 
 		},
-		index:'./index.html',
+		index:'./src/pages/index.html',
 		reloadDelay: 1000,
 		files:'./src',
 		 port: 8091
