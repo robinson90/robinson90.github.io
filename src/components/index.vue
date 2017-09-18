@@ -1,6 +1,5 @@
 <template>
  		<section id="sites" class="items">
-			 <img src="../img/favicon.ico">
 			<div class="item" v-for="item of list" :key="item.typename" >
 			    <h2>{{item.typename}}</h2>
 				<ul class='xoxo blogroll'>
