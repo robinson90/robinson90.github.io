@@ -1,5 +1,6 @@
 <template>
  		<section id="sites" class="items">
+			 <img src="../img/favicon.ico">
 			<div class="item" v-for="item of list" :key="item.typename" >
 			    <h2>{{item.typename}}</h2>
 				<ul class='xoxo blogroll'>
@@ -23,5 +24,8 @@ export default {
 </script>
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped >
-
+div{
+	background: gray;
+	/* border-image: url() */
+}
 </style>
